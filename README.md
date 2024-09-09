@@ -2,6 +2,9 @@
 
 This Streamlit application allows you to summarize the content from a YouTube video or a website using the LangChain library and the Groq API.
 
+## Screenshot
+![screenshot](https://github.com/aadhil96/Youtube_Video_Summarization_LLM/blob/3c7afd9429f6f1c948defdab717ce6a176df75b9/screenshot.JPG)
+
 ## Features
 
 - Summarize text from YouTube videos.
